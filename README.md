@@ -1,2 +1,2 @@
 # PRODIGY_GA_02_ImageGenertation_withPretrainedmodels
-Image Generation with Pre-trained Models - Utilize pre-trained generative models like DALL-E-mini or Stable Diffusion to create images from text prompts.
+Image Generation with Pre-trained Models involves using advanced AI models like DALL-E-mini or Stable Diffusion to create images from text descriptions. These models are trained on large datasets to understand language and generate images that match the given prompts. This approach enables users to input simple text descriptions and receive corresponding visuals, automating the image creation process using powerful AI algorithms. It’s commonly used in creative industries, design, and AI art exploration.
